@@ -1418,15 +1418,3 @@ body {
 .cid-r4gZcjedlP .mbr-section-subtitle {
   font-style: italic;
 }
-.cid-r4D4ETOKYs {
-  background: #ffffff;
-}
-.cid-r4D4ETOKYs .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-r4D4ETOKYs .video-block {
-    width: 100% !important;
-  }
-}
